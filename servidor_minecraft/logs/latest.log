@@ -183,3 +183,6 @@
 [03Jan2025 16:58:12.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Timed out
 [03Jan2025 16:58:12.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
 [03Jan2025 16:58:12.829] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 17:01:27.203] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3da89b6e[id=<null>,name=eloy_02,properties={},legacy=false] (/[::1]:39324): Took too long to log in
+[03Jan2025 17:01:27.204] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3da89b6e[id=<null>,name=eloy_02,properties={},legacy=false] (/[::1]:39324) lost connection: Timed out
+[03Jan2025 17:01:27.247] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
