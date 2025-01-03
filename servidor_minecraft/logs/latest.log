@@ -544,3 +544,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03Jan2025 23:45:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 left the game
 [03Jan2025 23:45:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 was slain by Zombie
 [03Jan2025 23:45:35.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45, l='ServerLevel[world]', x=122.18, y=63.00, z=-151.46] died, message: 'Villager was slain by Husk'
+[03Jan2025 23:51:15.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44, l='ServerLevel[world]', x=125.30, y=63.00, z=-147.59] died, message: 'Villager was slain by Husk'
