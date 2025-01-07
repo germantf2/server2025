@@ -268,3 +268,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Jan2025 20:28:50.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PacoHeredia__[/127.221.69.188:35931] logged in with entity id 496 at (-373.28221033585896, 68.0, -1327.987410880353)
 [07Jan2025 20:28:50.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ joined the game
 [07Jan2025 20:31:19.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 has made the advancement [Monster Hunter]
+[07Jan2025 20:49:27.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 has made the advancement [Acquire Hardware]
+[07Jan2025 20:54:32.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ was shot by Skeleton
+[07Jan2025 20:55:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[07Jan2025 20:58:43.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 has made the advancement [Suit Up]
+[07Jan2025 20:59:01.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 has made the advancement [Isn't It Iron Pick]
+[07Jan2025 20:59:48.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[07Jan2025 20:59:48.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
+[07Jan2025 21:03:28.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PacoHeredia__[/127.221.69.188:46963] logged in with entity id 13848 at (-375.5862147598545, 64.0, -1328.0958371791264)
+[07Jan2025 21:03:28.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ joined the game
