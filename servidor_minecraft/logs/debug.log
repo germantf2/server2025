@@ -2589,3 +2589,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Jan2025 23:39:39.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
 [07Jan2025 23:39:53.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
 [07Jan2025 23:39:53.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
+[07Jan2025 23:41:03.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:41:03.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:46:03.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:46:03.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
