@@ -274,3 +274,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Jan2025 23:06:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
 [07Jan2025 23:07:59.712] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [07Jan2025 23:10:54.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[07Jan2025 23:20:50.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ has made the advancement [A Seedy Place]
+[07Jan2025 23:21:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ was blown up by Creeper
+[07Jan2025 23:29:23.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[07Jan2025 23:30:35.462] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/12634, l='ServerLevel[world]', x=-699.50, y=52.00, z=-1331.50]
+[07Jan2025 23:30:44.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 has made the advancement [Sweet Dreams]
+[07Jan2025 23:32:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Gamerule playersSleepingPercentage is now set to: 1]
+[07Jan2025 23:33:38.162] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/14165, l='ServerLevel[world]', x=-704.50, y=51.00, z=-1336.50]
+[07Jan2025 23:33:40.264] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/14237, l='ServerLevel[world]', x=-704.50, y=51.00, z=-1336.50]
+[07Jan2025 23:33:48.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/14295, l='ServerLevel[world]', x=-706.50, y=51.00, z=-1336.50]
+[07Jan2025 23:33:49.711] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/14297, l='ServerLevel[world]', x=-706.50, y=51.00, z=-1336.50]
+[07Jan2025 23:33:50.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/14299, l='ServerLevel[world]', x=-698.50, y=52.00, z=-1332.50]
+[07Jan2025 23:38:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[07Jan2025 23:39:39.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[07Jan2025 23:39:53.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[07Jan2025 23:39:53.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
