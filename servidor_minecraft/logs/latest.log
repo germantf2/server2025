@@ -277,3 +277,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Jan2025 20:59:48.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
 [07Jan2025 21:03:28.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PacoHeredia__[/127.221.69.188:46963] logged in with entity id 13848 at (-375.5862147598545, 64.0, -1328.0958371791264)
 [07Jan2025 21:03:28.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ joined the game
+[07Jan2025 21:08:37.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ was slain by Zombie
+[07Jan2025 21:16:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ has made the advancement [Getting an Upgrade]
+[07Jan2025 21:19:15.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ moved too quickly! 0.10278363630982312,0.49520087700592796,-10.202553223205541
+[07Jan2025 21:19:15.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[07Jan2025 21:19:21.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eloy_02 lost connection: Disconnected
+[07Jan2025 21:19:21.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 left the game
+[07Jan2025 21:23:04.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[07Jan2025 21:23:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
