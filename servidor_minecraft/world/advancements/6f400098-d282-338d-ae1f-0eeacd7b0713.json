@@ -2570,84 +2570,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 16:17:03 +0000"
-    },
-    "done": false
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-01-08 15:57:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-08 13:40:50 +0000"
@@ -2657,12 +2579,6 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-01-08 13:40:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-01-08 15:57:28 +0000"
     },
     "done": true
   },
@@ -2684,6 +2600,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-08 15:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-08 15:57:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-01-08 15:57:28 +0000"
@@ -2693,6 +2621,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-01-08 15:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-08 20:32:26 +0000"
     },
     "done": true
   },
