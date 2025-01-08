@@ -266,3 +266,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 11:24:59.777] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [08Jan2025 11:27:21.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eloy_02[/127.167.30.162:47441] logged in with entity id 54 at (-533.5562396836186, 109.9375, -1111.189377637098)
 [08Jan2025 11:27:21.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 joined the game
+[08Jan2025 13:17:14.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eloy_02 lost connection: Timed out
+[08Jan2025 13:17:14.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 left the game
+[08Jan2025 13:17:14.204] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 13:19:56.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darvjx[/127.160.235.113:36837] logged in with entity id 8154 at (3.5, 110.0, 1.5)
+[08Jan2025 13:19:56.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx joined the game
+[08Jan2025 13:20:11.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darvjx moved too quickly! -5.218108745951788,3.0013359791121417,8.036964017982967
+[08Jan2025 13:20:46.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eloy_02[/127.167.30.162:59409] logged in with entity id 8352 at (-531.9330803460532, 110.0, -1112.0397263288455)
+[08Jan2025 13:20:46.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 joined the game
+[08Jan2025 13:20:54.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darvjx moved too quickly! -0.8817696167911286,-2.130906499714527,-10.081104828111272
+[08Jan2025 13:20:54.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[08Jan2025 13:21:12.217] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8629, l='ServerLevel[world]', x=116.50, y=53.00, z=-145.50]
+[08Jan2025 13:21:34.417] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/8696, l='ServerLevel[world]', x=127.50, y=48.00, z=-142.50]
+[08Jan2025 13:26:04.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx was slain by Spider
+[08Jan2025 13:29:59.708] [Worker-Main-76/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[08Jan2025 13:30:15.368] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13058, l='ServerLevel[world]', x=-942.50, y=55.00, z=-272.50]
+[08Jan2025 13:30:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx has made the advancement [A Seedy Place]
+[08Jan2025 13:31:42.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx has made the advancement [Acquire Hardware]
+[08Jan2025 13:34:42.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx has made the advancement [Stone Age]
