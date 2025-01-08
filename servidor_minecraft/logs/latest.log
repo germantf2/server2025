@@ -306,3 +306,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 15:09:11.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/32283, l='ServerLevel[world]', x=-699.50, y=52.00, z=-1332.50]
 [08Jan2025 15:11:03.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darvjx lost connection: Disconnected
 [08Jan2025 15:11:03.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx left the game
+[08Jan2025 15:22:10.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darvjx[/127.160.235.113:43773] logged in with entity id 33909 at (-620.0088865821108, 64.0, -1237.7448339857028)
+[08Jan2025 15:22:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx joined the game
+[08Jan2025 15:31:11.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darvjx lost connection: Disconnected
+[08Jan2025 15:31:11.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx left the game

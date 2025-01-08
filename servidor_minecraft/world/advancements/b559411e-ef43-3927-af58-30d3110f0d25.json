@@ -357,7 +357,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-08 13:31:17 +0000"
+      "bread": "2025-01-08 13:31:17 +0000",
+      "melon_slice": "2025-01-08 15:24:46 +0000"
     },
     "done": false
   },
@@ -1184,87 +1185,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-08 15:11:03 +0000"
-    },
-    "done": false
-  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-01-08 15:05:57 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_gray_cushion": {
-    "criteria": {
-      "has_light_gray_cushion": "2025-01-08 15:06:13 +0000"
     },
     "done": true
   },
@@ -1283,18 +1206,6 @@
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-01-08 15:05:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-01-08 15:06:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_gray_sheet": {
-    "criteria": {
-      "has_light_gray_sheet": "2025-01-08 15:06:13 +0000"
     },
     "done": true
   },
@@ -1328,27 +1239,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_sheet": {
-    "criteria": {
-      "has_white_sheet": "2025-01-08 15:06:07 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-01-08 15:05:57 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_cushion": {
-    "criteria": {
-      "has_white_cushion": "2025-01-08 15:06:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-01-08 15:06:07 +0000"
     },
     "done": true
   },
@@ -1382,33 +1275,15 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/decorations/white_bedroll": {
-    "criteria": {
-      "has_white_wool": "2025-01-08 15:06:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-08 15:05:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-01-08 15:05:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-01-08 15:06:07 +0000"
     },
     "done": true
   },
@@ -1436,21 +1311,9 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/decorations/light_gray_bedroll": {
-    "criteria": {
-      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2025-01-08 15:05:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
     },
     "done": true
   },
@@ -1460,9 +1323,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
+  "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
-      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
+      "has_oak_counter": "2025-01-08 15:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-08 15:06:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-01-08 15:06:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-01-08 15:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 15:06:07 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/white_bedroll": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 15:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 15:06:07 +0000"
     },
     "done": true
   },
@@ -1472,9 +1371,267 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_counter": {
+  "handcrafted:recipes/misc/light_gray_cushion": {
     "criteria": {
-      "has_oak_counter": "2025-01-08 15:05:57 +0000"
+      "has_light_gray_cushion": "2025-01-08 15:06:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-01-08 15:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/light_gray_bedroll": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 15:06:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 15:31:02 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-08 15:27:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-08 15:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-08 15:25:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-08 15:25:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-08 15:25:36 +0000"
     },
     "done": true
   },
