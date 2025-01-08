@@ -2757,3 +2757,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 13:41:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to Darvjx]
 [08Jan2025 13:45:02.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 13:45:02.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 13:46:39.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darvjx lost connection: Disconnected
+[08Jan2025 13:46:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx left the game
+[08Jan2025 13:50:02.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 13:50:02.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 13:55:02.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 13:55:02.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

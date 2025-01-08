@@ -289,3 +289,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 13:38:34.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to Darvjx]
 [08Jan2025 13:40:02.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx has made the advancement [Ice Bucket Challenge]
 [08Jan2025 13:41:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to Darvjx]
+[08Jan2025 13:46:39.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darvjx lost connection: Disconnected
+[08Jan2025 13:46:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx left the game
