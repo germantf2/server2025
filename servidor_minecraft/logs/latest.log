@@ -278,3 +278,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 20:48:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
 [08Jan2025 20:55:02.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
 [08Jan2025 20:58:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[08Jan2025 21:02:59.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alvarete[/127.20.189.210:56243] logged in with entity id 8028 at (0.5, 110.0, 7.5)
+[08Jan2025 21:02:59.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete joined the game
+[08Jan2025 21:03:08.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Made alvarete a server operator]
+[08Jan2025 21:04:19.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alvarete: Teleported alvarete to PacoHeredia__]
+[08Jan2025 21:04:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to alvarete]
+[08Jan2025 21:04:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete has made the advancement [Stone Age]
+[08Jan2025 21:05:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete has made the advancement [Getting an Upgrade]
+[08Jan2025 21:07:04.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[08Jan2025 21:10:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete has made the advancement [Monster Hunter]
+[08Jan2025 21:11:53.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alvarete: Teleported alvarete to PacoHeredia__]
+[08Jan2025 21:12:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to alvarete]
+[08Jan2025 21:16:00.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ has made the advancement [Not Today, Thank You]
+[08Jan2025 21:16:01.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete has made the advancement [Take Aim]
+[08Jan2025 21:18:04.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[08Jan2025 21:18:19.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete has made the advancement [Diamonds!]
+[08Jan2025 21:18:48.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alvarete: Teleported alvarete to PacoHeredia__]
+[08Jan2025 21:19:00.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete has made the advancement [Recrafted Creatures]
+[08Jan2025 21:21:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alvarete: Teleported alvarete to PacoHeredia__]
+[08Jan2025 21:21:28.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[08Jan2025 21:21:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alvarete: Teleported alvarete to PacoHeredia__]
+[08Jan2025 21:22:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ has made the advancement [Diamonds!]
+[08Jan2025 21:25:26.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarete has made the advancement [A Seedy Place]
+[08Jan2025 21:30:39.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[08Jan2025 21:30:39.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
+[08Jan2025 21:30:45.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eloy_02 lost connection: Disconnected
+[08Jan2025 21:30:45.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 left the game
