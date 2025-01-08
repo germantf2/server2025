@@ -320,3 +320,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 15:49:23.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ joined the game
 [08Jan2025 16:12:21.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
 [08Jan2025 16:12:21.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
+[08Jan2025 16:17:49.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eloy_02 lost connection: Disconnected
+[08Jan2025 16:17:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 left the game
