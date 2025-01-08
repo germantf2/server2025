@@ -310,3 +310,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 15:22:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx joined the game
 [08Jan2025 15:31:11.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darvjx lost connection: Disconnected
 [08Jan2025 15:31:11.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darvjx left the game
+[08Jan2025 15:43:17.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PacoHeredia__[/127.221.69.188:40997] logged in with entity id 38238 at (-373.59141350401535, 68.0, -1327.7165407647042)
+[08Jan2025 15:43:17.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ joined the game
+[08Jan2025 15:43:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[08Jan2025 15:44:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[08Jan2025 15:46:28.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[08Jan2025 15:46:28.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
