@@ -268,3 +268,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Jan2025 20:32:07.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 joined the game
 [08Jan2025 20:32:10.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
 [08Jan2025 20:32:26.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 has made the advancement [Not Today, Thank You]
+[08Jan2025 20:44:06.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PacoHeredia__[/127.221.69.188:48913] logged in with entity id 2069 at (-372.7971223811897, 68.0, -1327.282603159233)
+[08Jan2025 20:44:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ joined the game
+[08Jan2025 20:46:50.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ has made the advancement [Isn't It Iron Pick]
+[08Jan2025 20:47:30.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[08Jan2025 20:47:30.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
+[08Jan2025 20:47:40.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PacoHeredia__[/127.221.69.188:36519] logged in with entity id 3328 at (-394.950775823517, 65.0, -1360.5214597962495)
+[08Jan2025 20:47:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ joined the game
+[08Jan2025 20:48:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[08Jan2025 20:55:02.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[08Jan2025 20:58:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
