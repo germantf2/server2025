@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-08 13:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-08 13:27:16 +0000"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "recrafted_creatures:unfamiliar_fauna": {
+    "criteria": {
+      "chameleon": "2025-01-08 13:38:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-01-08 13:34:42 +0000"
@@ -467,6 +479,12 @@
     },
     "done": true
   },
+  "recrafted_creatures:root": {
+    "criteria": {
+      "requirement": "2025-01-08 13:38:34 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-08 13:19:56 +0000"
@@ -521,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-08 13:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 13:31:42 +0000"
@@ -566,6 +590,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-01-08 13:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-08 13:38:24 +0000"
     },
     "done": true
   },
@@ -677,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-08 13:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-08 13:34:00 +0000"
@@ -731,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-08 13:35:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2025-01-08 13:34:00 +0000"
@@ -740,6 +782,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-01-08 13:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-08 13:40:02 +0000"
     },
     "done": true
   },
@@ -770,6 +818,12 @@
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-01-08 13:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-08 13:38:24 +0000"
     },
     "done": true
   },
@@ -890,8 +944,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-01-08 13:19:57 +0000",
+      "minecraft:bamboo_jungle": "2025-01-08 13:41:45 +0000",
       "minecraft:badlands": "2025-01-08 13:20:16 +0000",
-      "minecraft:desert": "2025-01-08 13:29:57 +0000"
+      "minecraft:sparse_jungle": "2025-01-08 13:37:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-08 13:39:56 +0000",
+      "minecraft:river": "2025-01-08 13:39:24 +0000",
+      "minecraft:desert": "2025-01-08 13:29:57 +0000",
+      "minecraft:jungle": "2025-01-08 13:41:05 +0000"
     },
     "done": false
   },
@@ -988,6 +1047,12 @@
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-08 13:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-08 13:40:02 +0000"
     },
     "done": true
   },
