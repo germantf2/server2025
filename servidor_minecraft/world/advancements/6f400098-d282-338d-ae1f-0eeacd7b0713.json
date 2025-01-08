@@ -1963,6 +1963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-08 00:32:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-07 22:57:59 +0000"
@@ -2131,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-08 00:30:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-01-08 00:14:58 +0000"
@@ -2188,6 +2200,12 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-08 00:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-08 00:32:22 +0000"
     },
     "done": true
   },
@@ -2335,6 +2353,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-08 00:32:22 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-08 00:08:43 +0000"
@@ -2443,6 +2467,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-08 00:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-08 00:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-07 22:57:59 +0000"
@@ -2476,6 +2512,12 @@
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-08 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-01-08 00:32:22 +0000"
     },
     "done": true
   },
