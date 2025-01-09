@@ -2675,3 +2675,22 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [08Jan2025 23:49:27.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 23:49:27.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 23:50:44.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[08Jan2025 23:54:27.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:54:27.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:59:27.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:59:27.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:04:27.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:04:27.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:08:06.825] [Server thread/DEBUG] [mixin/]: Mixing world.explosions.ExplosionMixin from canary.mixins.json into net.minecraft.world.level.Explosion
+[09Jan2025 00:08:06.836] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[09Jan2025 00:09:27.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:09:27.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:09:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ has made the advancement [Sweet Dreams]
+[09Jan2025 00:14:27.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:14:27.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:15:20.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[09Jan2025 00:15:20.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
+[09Jan2025 00:19:27.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:19:27.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:24:27.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:24:27.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
