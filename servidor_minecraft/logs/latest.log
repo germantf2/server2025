@@ -1,3 +1,5 @@
 [10Jan2025 00:02:19.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=22, z=-2621} BlockPos{x=-428, y=23, z=-2621}
 [10Jan2025 00:19:04.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
 [10Jan2025 00:19:04.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
+[10Jan2025 00:30:09.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eloy_02 lost connection: Disconnected
+[10Jan2025 00:30:09.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 left the game
