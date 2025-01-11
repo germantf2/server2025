@@ -673,6 +673,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-07 23:59:28 +0000",
+      "glow_berries": "2025-01-11 01:32:37 +0000",
       "bread": "2025-01-07 16:45:58 +0000",
       "melon_slice": "2025-01-07 17:35:40 +0000",
       "cooked_rabbit": "2025-01-07 16:44:34 +0000"
@@ -3463,6 +3464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-11 01:22:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-01-10 23:39:08 +0000"
@@ -3475,9 +3482,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-01-11 01:22:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-10 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-01-11 01:26:27 +0000"
     },
     "done": true
   },
