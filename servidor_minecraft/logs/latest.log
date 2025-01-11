@@ -291,3 +291,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Jan2025 22:46:57.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eloy_02[/127.167.30.162:36163] logged in with entity id 816 at (-510.0018733173895, 64.0, -1207.3744777632658)
 [11Jan2025 22:46:57.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 joined the game
 [11Jan2025 22:47:38.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PacoHeredia__: Teleported PacoHeredia__ to eloy_02]
+[11Jan2025 23:19:38.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[11Jan2025 23:20:07.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[11Jan2025 23:20:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eloy_02: Teleported eloy_02 to PacoHeredia__]
+[11Jan2025 23:22:15.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PacoHeredia__ lost connection: Disconnected
+[11Jan2025 23:22:15.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PacoHeredia__ left the game
