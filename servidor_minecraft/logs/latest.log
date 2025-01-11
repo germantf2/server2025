@@ -298,3 +298,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [11Jan2025 18:14:48.927] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [11Jan2025 18:15:13.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eloy_02[/127.167.30.162:42565] logged in with entity id 66 at (-536.408997985702, 110.0, -1114.1472034293315)
 [11Jan2025 18:15:13.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 joined the game
+[11Jan2025 18:44:26.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eloy_02 lost connection: Disconnected
+[11Jan2025 18:44:26.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eloy_02 left the game
