@@ -1,0 +1,88 @@
+[14:58:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:58:33] [ServerMain/INFO]: Loaded 1461 recipes
+[14:58:33] [ServerMain/INFO]: Loaded 1574 advancements
+[14:58:33] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[14:58:33] [Server thread/INFO]: Loading properties
+[14:58:33] [Server thread/INFO]: Default game type: SURVIVAL
+[14:58:33] [Server thread/INFO]: Generating keypair
+[14:58:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:58:33] [Server thread/INFO]: Using epoll channel type
+[14:58:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:58:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:58:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:58:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:58:33] [Server thread/INFO]: Preparing level "world"
+[14:58:34] [Server thread/INFO]: Loading 0 persistent chunks...
+[14:58:34] [Server thread/INFO]: Preparing spawn area: 100%
+[14:58:34] [Server thread/INFO]: Time elapsed: 16 ms
+[14:58:34] [Server thread/INFO]: Done (0.613s)! For help, type "help"
+[14:59:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:04:42] [Server thread/INFO]: eloy_02[/127.229.25.135:50121] logged in with entity id 38 at (-38.45186720781548, 63.0, 121.35769192058133)
+[15:04:42] [Server thread/INFO]: eloy_02 joined the game
+[15:05:41] [Server thread/INFO]: Tonipro05[/127.222.149.51:56233] logged in with entity id 311 at (-24.5, 70.6875, 82.5)
+[15:05:41] [Server thread/INFO]: Tonipro05 joined the game
+[15:06:13] [Server thread/INFO]: Darvjx[/127.160.235.113:39281] logged in with entity id 457 at (-31.3656369292116, 67.0, 88.46305316669132)
+[15:06:13] [Server thread/INFO]: Darvjx joined the game
+[15:13:53] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[15:13:53] [Server thread/INFO]: <--[HERE]
+[15:14:14] [Server thread/INFO]: You whisper to Tonipro05: AVISO usted sera desconectado dentro de 5 minutos
+[15:16:50] [Server thread/INFO]: Darvjx lost connection: Disconnected
+[15:16:50] [Server thread/INFO]: Darvjx left the game
+[15:17:27] [Server thread/INFO]: Darvjx[/127.160.235.113:37559] logged in with entity id 3089 at (-65.69999998807907, 72.0, 47.30000001192093)
+[15:17:27] [Server thread/INFO]: Darvjx joined the game
+[15:19:42] [Server thread/INFO]: Darvjx lost connection: Disconnected
+[15:19:42] [Server thread/INFO]: Darvjx left the game
+[15:20:15] [Server thread/INFO]: Darvjx[/127.160.235.113:39867] logged in with entity id 3538 at (-31.078300696713686, 70.0, 68.20231371226937)
+[15:20:15] [Server thread/INFO]: Darvjx joined the game
+[15:28:32] [Server thread/INFO]: [Darvjx: Teleported Darvjx to Tonipro05]
+[15:28:37] [Server thread/INFO]: Tonipro05 lost connection: Disconnected
+[15:28:37] [Server thread/INFO]: Tonipro05 left the game
+[15:29:04] [Server thread/INFO]: [Not Secure] <Darvjx> ss
+[15:29:12] [Server thread/INFO]: Tonipro05[/127.222.149.51:45155] logged in with entity id 5707 at (-13.268150638992765, 65.0, 114.6901580871463)
+[15:29:12] [Server thread/INFO]: Tonipro05 joined the game
+[15:29:31] [Server thread/INFO]: Tonipro05 lost connection: Disconnected
+[15:29:31] [Server thread/INFO]: Tonipro05 left the game
+[15:30:56] [Server thread/INFO]: Tonipro05[/127.222.149.51:42135] logged in with entity id 6095 at (-34.181146663212004, 68.0, 91.52955911102964)
+[15:30:56] [Server thread/INFO]: Tonipro05 joined the game
+[15:34:25] [Server thread/INFO]: [Darvjx: Teleported Darvjx to Tonipro05]
+[15:50:31] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[15:50:31] [Server thread/INFO]: <--[HERE]
+[16:20:54] [Server thread/INFO]: [Tonipro05: Teleported Tonipro05 to eloy_02]
+[16:30:09] [Server thread/INFO]: You whisper to Tonipro05: AVISO usted sera desconectado del servidor en 5 minutos
+[16:56:04] [Server thread/INFO]: diegox24[/127.252.58.171:52213] logged in with entity id 23589 at (28.259962567940835, 68.0, 324.55894843431685)
+[16:56:04] [Server thread/INFO]: diegox24 joined the game
+[17:28:27] [Server thread/INFO]: diegox24 has made the advancement [Take Aim]
+[17:35:29] [Server thread/INFO]: diegox24 lost connection: Disconnected
+[17:35:29] [Server thread/INFO]: diegox24 left the game
+[17:39:55] [Server thread/INFO]: diegox24[/127.252.58.171:57835] logged in with entity id 33275 at (31.674658375286274, 65.0, 316.26487295565715)
+[17:39:55] [Server thread/INFO]: diegox24 joined the game
+[17:41:47] [Server thread/INFO]: Darvjx lost connection: Kicked by an operator
+[17:41:47] [Server thread/INFO]: Darvjx left the game
+[17:41:47] [Server thread/INFO]: Kicked Darvjx: Kicked by an operator
+[17:41:47] [Server thread/WARN]: handleDisconnection() called twice
+[17:41:58] [Server thread/INFO]: Kicked eloy_02: Kicked by an operator
+[17:41:58] [Server thread/INFO]: eloy_02 lost connection: Kicked by an operator
+[17:41:58] [Server thread/INFO]: eloy_02 left the game
+[17:41:58] [Netty Epoll Server IO #0/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[17:47:11] [Server thread/INFO]: [diegox24: Teleported diegox24 to Tonipro05]
+[17:55:34] [Server thread/INFO]: eloy_02[/127.229.25.135:32983] logged in with entity id 36916 at (-42.69412816993532, 63.0, 118.9316276471955)
+[17:55:34] [Server thread/INFO]: eloy_02 joined the game
+[17:57:44] [Server thread/INFO]: [eloy_02: Teleported eloy_02 to diegox24]
+[17:59:55] [Server thread/INFO]: [eloy_02: Teleported eloy_02 to diegox24]
+[18:05:48] [Server thread/INFO]: eloy_02 has made the advancement [Diamonds!]
+[18:06:53] [Server thread/INFO]: [Tonipro05: Teleported Tonipro05 to diegox24]
+[18:07:22] [Server thread/INFO]: Tonipro05 has made the advancement [Diamonds!]
+[18:08:52] [Server thread/INFO]: diegox24 was shot by Skeleton
+[18:09:01] [Server thread/INFO]: Tonipro05 has made the advancement [Not Today, Thank You]
+[18:09:29] [Server thread/INFO]: [diegox24: Teleported diegox24 to -256.500000, -21.000000, -133.500000]
+[18:10:29] [Server thread/INFO]: [eloy_02: Teleported eloy_02 to diegox24]
+[18:10:59] [Server thread/INFO]: Tonipro05 fell from a high place
+[18:11:18] [Server thread/INFO]: [Tonipro05: Teleported Tonipro05 to diegox24]
+[18:11:57] [Server thread/INFO]: diegox24 lost connection: Disconnected
+[18:11:57] [Server thread/INFO]: diegox24 left the game
+[18:21:37] [Server thread/INFO]: [eloy_02: Teleported eloy_02 to Tonipro05]
+[18:25:23] [Server thread/INFO]: Tonipro05 tried to swim in lava
+[18:26:12] [Server thread/INFO]: [eloy_02: Teleported eloy_02 to Tonipro05]
+[18:35:38] [Server thread/INFO]: [eloy_02: Teleported eloy_02 to Tonipro05]
